@@ -368,7 +368,7 @@ blockquote {
 
 blockquote p {
     padding: 15px;
-    background: #eee;
+    background: #f1f1f1;
     border-radius: 5px;
 }
 
@@ -696,7 +696,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
